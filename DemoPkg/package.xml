@@ -3,8 +3,6 @@
     <types>
         <members>HelloWorld</members>
         <members>HelloWorldTest</members>
-		<members>HelloWorld1</members>
-        <members>HelloWorldTest1</members>
         <name>ApexClass</name>
     </types>
     <types>
