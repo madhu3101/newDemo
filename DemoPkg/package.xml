@@ -6,7 +6,7 @@
         <name>ApexClass</name>
     </types>
     <types>
-        <!-- <members>MyCustomObject__c</members> -->
+        <members>MyCustomObject__c</members>
         <members>MyHelloWorldObject__c</members>
         <name>CustomObject</name>
     </types>
