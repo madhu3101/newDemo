@@ -12,9 +12,6 @@
         <members>MyHelloWorldObject__c</members>
         <name>CustomObject</name>
     </types>
-    <types>
-        <members>Account.New account_Alert</members>
-        <name>WorkflowRule</name>
-    </types>
+    
     <version>41.0</version>
 </Package>
